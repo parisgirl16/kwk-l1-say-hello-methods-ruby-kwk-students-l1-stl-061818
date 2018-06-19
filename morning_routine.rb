@@ -6,3 +6,4 @@ def morning_routine
   puts "get dressed"
 end
 morning_routine
+morning_routine

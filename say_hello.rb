@@ -1,1 +1,1 @@
-def say_hello(local_greeting,)
+say_hello("Gabriela")
